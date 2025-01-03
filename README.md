@@ -28,15 +28,18 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
 2. **Run the Script**
    ```bash
    python3 fuzzer.py
+   python3 payloadsender.py
    ```
 
 3. **Follow the Prompts**
    - Enter the target IP address.
    - Enter the target port.
-   - Sit back and let the fuzzer do its magic! 🚀
+   - Enter the pattern payload for payloadsender
+   - Sit back and let the fuzzer/payloadsender do its magic! 🚀
 
 4. 🖼️ Example Preview
 ![image](https://github.com/user-attachments/assets/81fe7bd4-fa66-47ad-a397-59dff4bfdb69)
+
 
 
 ---

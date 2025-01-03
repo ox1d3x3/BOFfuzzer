@@ -35,7 +35,7 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    - Enter the target port.
    - Sit back and let the fuzzer do its magic! 🚀
 
-4. **Example**
+4. 🖼️ Example Preview
 ![image](https://github.com/user-attachments/assets/81fe7bd4-fa66-47ad-a397-59dff4bfdb69)
 
 
@@ -50,12 +50,6 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
 ## 🛠️ Configuration
 The script dynamically asks for the target IP and port. Ensure the target service is up and running before starting the fuzzer.
 
----
-## 🖼️ Preview
-```
-![image](https://github.com/user-attachments/assets/e688f20e-b0e3-4d4d-a7a8-21ae47461352)
-
-```
 
 ## ⚠️ Disclaimer
 

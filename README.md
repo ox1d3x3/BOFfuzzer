@@ -6,7 +6,7 @@ Buffer Overflow Fuzzer
 ### **Description**
 This fuzzer script is designed to help security enthusiasts test buffer overflow vulnerabilities in vulnerable services. Inspired by the TryHackMe Brainpan 1 room, the script dynamically sends increasing payload sizes to a specified target until the service crashes, identifying the exact crash point. 
 
-Please note that the Fuzzer may not work with all kind of buffer.
+##Please note that the Fuzzer may not work with all kind of buffer.
 
 ---
 

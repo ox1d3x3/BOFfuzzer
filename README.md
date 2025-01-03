@@ -29,6 +29,8 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    ```bash
    python3 fuzzer.py
    python3 payloadsender.py
+  **FOR Custom Buffer**
+   python3 customfuzzer.py
    ```
 
 3. **Follow the Prompts**

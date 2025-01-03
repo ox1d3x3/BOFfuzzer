@@ -21,7 +21,7 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
 
 1. **Clone the Repository**
    ```bash
-   https://github.com/ox1d3x3/BOFfuzzer.git
+   git clone https://github.com/ox1d3x3/BOFfuzzer.git
    cd BOFfuzzer
    ```
 

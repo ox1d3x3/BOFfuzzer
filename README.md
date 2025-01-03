@@ -51,19 +51,13 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
 The script dynamically asks for the target IP and port. Ensure the target service is up and running before starting the fuzzer.
 
 ---
-
-## ⚠️ Disclaimer
-This script is for educational purposes only. Always have permission before testing systems for vulnerabilities. The author is not responsible for misuse.
-
----
-
 ## 🖼️ Preview
 ```
 ![image](https://github.com/user-attachments/assets/e688f20e-b0e3-4d4d-a7a8-21ae47461352)
 
 ```
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This program is provided "as-is" and without any warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability or fitness for a particular purpose. The author of this program is not liable for any direct, indirect, incidental, special, or consequential damages arising out of the use, misuse, or inability to use this software.
 

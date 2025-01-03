@@ -34,7 +34,7 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
 3. **Follow the Prompts**
    - Enter the target IP address.
    - Enter the target port.
-   - Sit back and let the fuzzer/payloadsender do its magic! 🚀
+   - Sit back and let the fuzzer do its magic! 🚀
    - Get the Fuzzer crash bytes
    - Generate pattern using **msf-pattern_create**
    - Send the pattern using payloadsender.py

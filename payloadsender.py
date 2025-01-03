@@ -13,7 +13,7 @@ def display_banner():
     """
     print(banner)
     print("Author  : Ox1d3x3")
-    print("Version : 0.3")
+    print("Version : 0.4")
     print("Disclaimer: This fuzzer is made based on THM Brainpan 1 room.\n")
 
 # Function to send the pattern to a target

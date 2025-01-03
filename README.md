@@ -56,7 +56,8 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
 
 -bufloadsender.py
 
-![image](https://github.com/user-attachments/assets/e9d67b70-dab0-43a5-a90b-6493b186851e)
+![image](https://github.com/user-attachments/assets/66d6f2a9-bfda-42cc-a481-98b824e83f1e)
+
 
 ---
 

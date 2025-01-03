@@ -36,7 +36,8 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    - Sit back and let the fuzzer do its magic! 🚀
 
 4. **Example**
-![image](https://github.com/user-attachments/assets/d8b90c4c-66da-4355-bdae-0993c7cfd069)
+![image](https://github.com/user-attachments/assets/81fe7bd4-fa66-47ad-a397-59dff4bfdb69)
+
 
 ---
 

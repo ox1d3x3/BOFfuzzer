@@ -29,13 +29,13 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    ```bash
    python3 fuzzer.py
    python3 payloadsender.py
-   
-  **For Custom Buffer**
+    **For custom buffer**
    python3 customfuzzer.py
+
    
    ```
 
-3. **Follow the Prompts**
+2. **Follow the Prompts**
    - Enter the target IP address.
    - Enter the target port.
    - Sit back and let the fuzzer do its magic! 🚀
@@ -43,7 +43,7 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    - Generate pattern using **msf-pattern_create**
    - Send the pattern using payloadsender.py
 
-4. 🖼️ Example Preview
+3. 🖼️ Example Preview
 -fuzzer.py
 
 ![image](https://github.com/user-attachments/assets/81fe7bd4-fa66-47ad-a397-59dff4bfdb69)

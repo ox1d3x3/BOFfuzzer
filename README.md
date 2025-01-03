@@ -37,7 +37,7 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    - Sit back and let the fuzzer/payloadsender do its magic! 🚀
    - Get the Fuzzer crash bytes
    - Generate pattern using **msf-pattern_create**
-   - send the pattern using payloadsender.py
+   - Send the pattern using payloadsender.py
 
 4. 🖼️ Example Preview
 fuzzer.py

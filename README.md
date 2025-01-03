@@ -40,10 +40,12 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    - Send the pattern using payloadsender.py
 
 4. 🖼️ Example Preview
-fuzzer.py
+-fuzzer.py
+
 ![image](https://github.com/user-attachments/assets/81fe7bd4-fa66-47ad-a397-59dff4bfdb69)
 
-payloadsender.py
+-payloadsender.py
+
 ![image](https://github.com/user-attachments/assets/e51a1ca9-6b36-459c-86de-5d38fcb967ac)
 
 ---

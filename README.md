@@ -29,8 +29,8 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    ```bash
    python3 fuzzer.py
    python3 payloadsender.py
-    >>For custom buffer<<
-   python3 customfuzzer.py
+    >>After getting the offset use<<
+   python3 bufloadsender.py
 
    
    ```
@@ -42,6 +42,8 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
    - Get the Fuzzer crash bytes
    - Generate pattern using **msf-pattern_create**
    - Send the pattern using payloadsender.py
+   - Get the offset by using msf-pattern_offset
+   - Use bufloadsender.py to send the custom offset
 
 3. 🖼️ Example Preview
 -fuzzer.py
@@ -51,6 +53,9 @@ This fuzzer script is designed to help security enthusiasts test buffer overflow
 -payloadsender.py
 
 ![image](https://github.com/user-attachments/assets/e51a1ca9-6b36-459c-86de-5d38fcb967ac)
+
+-bufloadsender.py
+![image](https://github.com/user-attachments/assets/e9d67b70-dab0-43a5-a90b-6493b186851e)
 
 ---
 

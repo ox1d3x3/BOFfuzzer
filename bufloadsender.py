@@ -42,7 +42,7 @@ def get_buffer():
             user_input = input("Buffer payload: ")
             buffer = eval(user_input)  # Evaluating user input to create the buffer
             if not isinstance(buffer, str):
-                raise ValueError("Payload must be a regular string,no bytes (ed, 'A').")
+                raise ValueError("Payload must be a regular string, no bytes (eg, 'A').")
             return buffer
         except Exception as e:
             print(f"[!] Invalid buffer input: {e}")
